@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+updated git_1
+=======
+updated git_2
+>>>>>>> git_2
+line
+line
+line
+line
+line
+line
+line
+line
+line
